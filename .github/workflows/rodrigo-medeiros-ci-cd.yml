@@ -13,4 +13,4 @@ jobs:
         with:
           node-version: 20
       - run: npm install -g surge
-      - run: surge ./staff/rodrigo-medeiros/Pixel art ${{ secrets.DOMAIN_SURGE }} --token ${{ secrets.TOKEN_SURGE }}git 
+      - run: surge ./staff/rodrigo-medeiros/Pixel-art ${{ secrets.DOMAIN_SURGE }} --token ${{ secrets.TOKEN_SURGE }}
