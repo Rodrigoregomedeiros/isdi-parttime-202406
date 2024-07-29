@@ -1,4 +1,4 @@
-// Para ver el secret tenéis que usar la password. 
+// Para ver el secret tenéis que usar la password! 
 // La password debe ser definida por el usuario al crear su securit box
 const securityBox = (userPass) => {
     let password = userPass;

@@ -44,4 +44,4 @@ console.log(miBaulDeOro.changePassword({
     newPassword: "Bilbo",
 }));
 console.log(miBaulDeOro.mostrarSecreto("Froddo"));
-//expected output "Contraseña incorrecta"
+//expected output "Contraseña incorrecta""
